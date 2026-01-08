@@ -1,6 +1,5 @@
 # Mini Projet - Intelligence Artificielle 🤖
 
-**Cycle d'ingénieur - Semestre 1 (2025/2026)**
 
 Ce projet contient deux tâches principales d'apprentissage automatique : régression linéaire et classification binaire.
 
